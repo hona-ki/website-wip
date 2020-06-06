@@ -10,7 +10,7 @@ hasCJKLanguage             = true
 summaryLength              = 200
 Paginate                   = 3
 
-theme                      = "AllinOne"
+theme                      = "allinone"
 title                      = "Honaki's Heart"
 
 pygmentsuseclasses         = true
